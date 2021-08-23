@@ -1,0 +1,13 @@
+.box {
+  height: 150px;
+  color: black;
+  margin: 10px;
+  min-width: 100px;
+  cursor: pointer;
+}
+
+.box p {
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
